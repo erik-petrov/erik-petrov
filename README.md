@@ -3,7 +3,7 @@
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 22 January, 2022 - 28 January, 2022
+Week: 23 January, 2022 - 29 January, 2022
 
 C#         4 hrs 5 mins    █████████████████▒░░░░░░░   69.68 % 
 Other      1 hr 26 mins    ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
