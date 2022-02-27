@@ -3,7 +3,10 @@
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+From: 18 February, 2022 - To: 25 February, 2022
+
+C#      1 hr 8 mins     ███████████████▒░░░░░░░░░   61.66 % 
+Other   42 mins         █████████▓░░░░░░░░░░░░░░░   38.31 % 
 ```
 <!--END_SECTION:waka-->
 
