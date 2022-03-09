@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2022 - To: 07 March 2022
+From: 01 March 2022 - To: 08 March 2022
 
 C#       14 mins         ████████████████░░░░░░░░░   64.13 %
 Other    6 mins          ███████░░░░░░░░░░░░░░░░░░   28.65 %
