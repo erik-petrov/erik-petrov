@@ -4,10 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 March 2022 - To: 07 April 2022
-
-INI    12 mins         █████████████████████████   99.62 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
