@@ -4,10 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2022 - To: 20 April 2022
-
-INI          1 min           ██████████████░░░░░░░░░░░   55.65 %
-Properties   1 min           ███████████░░░░░░░░░░░░░░   44.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
